@@ -1,0 +1,71 @@
+syntax = "proto3";
+
+option csharp_namespace = "Node";
+
+package greet;
+
+// The greeting service definition.
+service Discovery {
+  rpc GetNeighbors (GetNeighborsRequest) returns (NeighborsReply);
+  rpc AddNeighbor (Neighbor) returns (AddNeighborReply);
+  rpc AddTransaction (AddTransactionRequest) returns (AddTransactionReply);
+  rpc Check(Ping) returns (Pong);
+  rpc AddBlock(AddBlockRequest) returns (AddBlockReply);
+  rpc GetBlockChain(GetBlockChainRequest) returns (GetBlockChainReply);
+}
+
+message GetBlockChainRequest{
+	int32 StartIndex = 1;
+}
+message GetBlockChainReply {
+	repeated BlockGrpc BlockChain = 1;
+}
+
+message AddBlockReply{}
+
+message AddBlockRequest{
+	string MyPublicKey = 1;
+BlockGrpc BlockToAdd = 2;
+bytes MySignature = 3;
+}
+
+message BlockGrpc {
+	   int32 Index = 1;
+         repeated TransactionGrpc Transactions =2;
+         repeated string NodeIds =3;
+       optional  string PreviousHash =4;
+}
+
+message Ping {}
+message Pong {}
+message AddNeighborReply {
+
+}
+
+message AddTransactionRequest {
+		string MyPublicKey = 1;
+		TransactionGrpc TransactionToAdd = 2;
+		bytes MySignature = 3;
+
+}
+
+message TransactionGrpc {
+	string Sender = 1;
+	string Receiver = 2;
+	double Amount =3;
+}
+message AddTransactionReply {
+	bool Accepted = 1;
+}
+
+message GetNeighborsRequest {
+}
+
+
+message NeighborsReply{
+	repeated Neighbor NeighborList = 1;
+}
+message Neighbor {
+	string IP = 1;
+	string nodeId = 2;
+}

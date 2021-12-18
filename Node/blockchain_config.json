@@ -1,0 +1,118 @@
+{
+  "PublicKey": "\u003CRSAKeyValue\u003E\u003CModulus\u003E7SKMrZRWjiKnzfZlo3QlDYhRaXI4Eby3oZGKF75i/QEgmthKCm77b5nvOW0nkIyun58bEraNBvFOrexAHBt73/XisJpwk35onoPA3eFlEb45MIMQ1NhmASujmuV1xigONklZ0M5zi4ovHOe/IUKfUQVOjL\u002B1Sl59s3OouoebUIKLHSk8ewjCQwXbuB5SiYu4nQkb9aHuXazdvhQh67VxzmljC/HUPVk6gEivpRaf0sb6q65QZB7NLbhn8wNsOqSnAsczrmw58Rri5MvB6gmcmJbkwCLFfHYntIquZfyEjQiRYek3aV/R19R2il9TFHi0TvisE5GZDhfX1YixXr0NdQ==\u003C/Modulus\u003E\u003CExponent\u003EAQAB\u003C/Exponent\u003E\u003C/RSAKeyValue\u003E",
+  "PrivateKey": "\u003CRSAKeyValue\u003E\u003CModulus\u003E7SKMrZRWjiKnzfZlo3QlDYhRaXI4Eby3oZGKF75i/QEgmthKCm77b5nvOW0nkIyun58bEraNBvFOrexAHBt73/XisJpwk35onoPA3eFlEb45MIMQ1NhmASujmuV1xigONklZ0M5zi4ovHOe/IUKfUQVOjL\u002B1Sl59s3OouoebUIKLHSk8ewjCQwXbuB5SiYu4nQkb9aHuXazdvhQh67VxzmljC/HUPVk6gEivpRaf0sb6q65QZB7NLbhn8wNsOqSnAsczrmw58Rri5MvB6gmcmJbkwCLFfHYntIquZfyEjQiRYek3aV/R19R2il9TFHi0TvisE5GZDhfX1YixXr0NdQ==\u003C/Modulus\u003E\u003CExponent\u003EAQAB\u003C/Exponent\u003E\u003CP\u003E8MHrR8ImOG0y5xQmNRqQN7BlLuMKjQiCVSeJ04zsFIF84Vrde5uN3ux/Nwn3kcnhBQggoVuyC/ww\u002BTtldjSzrBNwm05wBxprCEmJ6ErPGzRoiVlYyi\u002BKCzDwQZeuABPWvGvhGmcb3DlkWJW5FfzOIZLyNBnHG08MQvisjqm/RCM=\u003C/P\u003E\u003CQ\u003E/CXrCo28NTYa\u002B\u002BERKvp2FoJVGWC4Ax\u002BTCjfZjK889FDEScR2PZm6R9s6jXs421Xx7mojphWjgjBxhwNIv5cH8AHDOMUhFJtbI/Obo7u9YdaEKdnPMAWZETSyAJxnvCmHB7PvLt/\u002BSbtAJdQZTAQ0L1YGueTKIhmjkHtgD/uF1Yc=\u003C/Q\u003E\u003CDP\u003EGeUxskkupTkRlYs0RNfzlRnS\u002BEURWHQG2LPk/i0VI2t\u002BDBsi4W2sx8J2OGxJBZRKMKlcIR7kuqdIeTYrRpiKjsKUhQ/dutXbl0uZmrOZLRro94T1qOGOHoAIB3YSEA4SNbgAwT8/3uMJaQHJo5TKcxAEHxh6svRApF9s5/dYDDM=\u003C/DP\u003E\u003CDQ\u003EjuuDNUEvS832L4zb6Ut8AbgwOik7Q/Hyq1kKw5ZUa3sYN2PXTYVENBSMNMOCb7hgYC3jNPGQ82s3/jobUxVtV1n4aMY7wO1qFI\u002BxSXZRmxI3aW1e5a5Wm40N1BDTL7EuK2yPBzfJb8tmScrV5\u002BN\u002BHNKbD2UiOX/k2TFFOunrayM=\u003C/DQ\u003E\u003CInverseQ\u003E2j3giPTg14/wEBZTLSaYw/Tzmx4jjJhSi5hsHWBAk/bulk9jNtWeAEg7siuX4ZnlQYd/YivdITQEbq\u002BbuFemmYYRFGOLDBblYaYm5u9ZpFVPePV2c7CEGBGiTitlTMIljFgwNNNhoPFQLo0nhDQEh3rb46EAgJm0j0/BlBHH4QQ=\u003C/InverseQ\u003E\u003CD\u003EhJvCgbsnYBq/Li1xDyP/KH8nz8jg1AJtyjtiNv7vyj5cJlt3pDgGAZXasol5C5uwd3D5KdDOMqi08AvimhVAg7C0UUA8Xi7dgG97ZlkKNQ7kWl2hBvXwrQzjU9ansuVpdTA1utAIy2q\u002BB/MM7iOchilqkMkQL4OB1d2C6LS2xSD32CgC7Zhk0GCICy4tPb3yEXr9ZUXdICkUsQ01ct8ZQpGXHIoZ4bvzBE1f7RnFFk/izleeo26o/glq5myUoRdPViYI28dXM6Se9Ee9cPbis00OoqEJFly5QSo2fv1o3SxN1n2shZvikIydvE407kZRNZP7jzEBDxGJCZ7htbf/rQ==\u003C/D\u003E\u003C/RSAKeyValue\u003E",
+  "Neighbors": [
+    {
+      "IP": "https://localhost:12345",
+      "nodeId": "58-56-E6-A9-F0-5D-66-56-63-9D-BF-56-43-AA-F1-64"
+    }
+  ],
+  "BlockChain": [
+    {
+      "Index": 1,
+      "Transactions": [],
+      "NodeIds": [
+        "3E-72-D3-B5-98-AE-A0-C8-2E-D1-00-23-36-CD-5C-D0"
+      ],
+      "PreviousHash": "first"
+    },
+    {
+      "Index": 2,
+      "Transactions": [
+        {
+          "Sender": "AD-CB-1A-72-0C-7F-EB-54-D4-F6-AD-E5-41-83-55-B5",
+          "Receiver": "4B-DB-FE-86-36-56-79-64-24-59-D3-16-C1-7D-BB-F4",
+          "Amount": 100
+        }
+      ],
+      "NodeIds": [
+        "3E-72-D3-B5-98-AE-A0-C8-2E-D1-00-23-36-CD-5C-D0"
+      ],
+      "PreviousHash": "48-42-AB-94-EA-5E-CE-EE-A0-2A-F9-16-B4-38-D5-BA"
+    },
+    {
+      "Index": 3,
+      "Transactions": [
+        {
+          "Sender": "4B-DB-FE-86-36-56-79-64-24-59-D3-16-C1-7D-BB-F4",
+          "Receiver": "AD-CB-1A-72-0C-7F-EB-54-D4-F6-AD-E5-41-83-55-B5",
+          "Amount": 50
+        }
+      ],
+      "NodeIds": [
+        "3E-72-D3-B5-98-AE-A0-C8-2E-D1-00-23-36-CD-5C-D0"
+      ],
+      "PreviousHash": "51-DD-1D-A5-1B-8F-C9-42-1E-72-32-89-4A-C5-51-C4"
+    },
+    {
+      "Index": 4,
+      "Transactions": [
+        {
+          "Sender": "AD-CB-1A-72-0C-7F-EB-54-D4-F6-AD-E5-41-83-55-B5",
+          "Receiver": "4B-DB-FE-86-36-56-79-64-24-59-D3-16-C1-7D-BB-F4",
+          "Amount": 17
+        }
+      ],
+      "NodeIds": [
+        "3E-72-D3-B5-98-AE-A0-C8-2E-D1-00-23-36-CD-5C-D0"
+      ],
+      "PreviousHash": "64-C7-14-86-3F-C0-EC-77-BA-26-D9-16-00-21-6C-BD"
+    },
+    {
+      "Index": 5,
+      "Transactions": [
+        {
+          "Sender": "AD-CB-1A-72-0C-7F-EB-54-D4-F6-AD-E5-41-83-55-B5",
+          "Receiver": "4B-DB-FE-86-36-56-79-64-24-59-D3-16-C1-7D-BB-F4",
+          "Amount": 13
+        }
+      ],
+      "NodeIds": [
+        "3E-72-D3-B5-98-AE-A0-C8-2E-D1-00-23-36-CD-5C-D0"
+      ],
+      "PreviousHash": "02-65-70-F5-87-91-5F-6E-F6-44-BD-7E-1F-12-A2-17"
+    },
+    {
+      "Index": 6,
+      "Transactions": [
+        {
+          "Sender": "AD-CB-1A-72-0C-7F-EB-54-D4-F6-AD-E5-41-83-55-B5",
+          "Receiver": "4B-DB-FE-86-36-56-79-64-24-59-D3-16-C1-7D-BB-F4",
+          "Amount": 100
+        }
+      ],
+      "NodeIds": [
+        "3E-72-D3-B5-98-AE-A0-C8-2E-D1-00-23-36-CD-5C-D0"
+      ],
+      "PreviousHash": "D8-E9-84-C1-85-2B-59-37-E4-2F-DC-D7-8A-10-F7-C4"
+    },
+    {
+      "Index": 7,
+      "Transactions": [
+        {
+          "Sender": "4B-DB-FE-86-36-56-79-64-24-59-D3-16-C1-7D-BB-F4",
+          "Receiver": "AD-CB-1A-72-0C-7F-EB-54-D4-F6-AD-E5-41-83-55-B5",
+          "Amount": 100
+        }
+      ],
+      "NodeIds": [
+        "58-56-E6-A9-F0-5D-66-56-63-9D-BF-56-43-AA-F1-64"
+      ],
+      "PreviousHash": "52-FE-7B-3A-60-54-4F-2F-EF-0F-0E-19-B1-C0-E5-7D"
+    },
+    {
+      "Index": 8,
+      "Transactions": [
+        {
+          "Sender": "AD-CB-1A-72-0C-7F-EB-54-D4-F6-AD-E5-41-83-55-B5",
+          "Receiver": "4B-DB-FE-86-36-56-79-64-24-59-D3-16-C1-7D-BB-F4",
+          "Amount": 1000
+        }
+      ],
+      "NodeIds": [
+        "58-56-E6-A9-F0-5D-66-56-63-9D-BF-56-43-AA-F1-64"
+      ],
+      "PreviousHash": "28-F4-BF-7A-DE-B7-78-83-11-8B-43-E2-9B-E3-4C-E1"
+    }
+  ]
+}
